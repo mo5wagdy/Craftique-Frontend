@@ -30,6 +30,12 @@ The platform connects shoppers with talented local artisans offering skincare, b
   <img src="Repo Screens/Screenshot 2025-07-13 205623.png" alt="Login Page" width="40%" />
   <br>
   <img src="Repo Screens/Screenshot 2025-07-13 205634.png" alt="Signup Page" width="40%" />
+  <br>
+  <img src="Repo Screens/Create Account.png" alt="Signup Page" width="40%" />
+  <br>
+  <img src="Repo Screens/Profile.png" alt="Signup Page" width="40%" />
+  <br>
+  <img src="Repo Screens/Basket.png" alt="Signup Page" width="40%" />
 </p>
 
 ---
