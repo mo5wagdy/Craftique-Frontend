@@ -2,8 +2,9 @@
 
 <p align="center">
   <b>A Modern E-Commerce Platform for Local Handmade Brands</b><br>
-  Built with <code>React</code> (Frontend) and <code>.NET</code> (Backend) | Graduation Project
-  | Preview Link: [Add your GitHub link here]
+  Built with <code>React</code> (Frontend) and <code>.NET</code> (Backend)<br>
+  <b>Graduation Project</b><br>
+  <a href="https://github.com/your-repo/craftique">🔗 Live Preview</a>
 </p>
 
 ---
@@ -13,6 +14,24 @@
 **Craftique** is a modern, stylish e-commerce website designed to showcase and support **local handmade and crafting brands**, especially targeting a female audience.
 
 The platform connects shoppers with talented local artisans offering skincare, beauty products, jewelry, home décor, and more — all through a smooth, elegant, and minimal user experience.
+
+---
+
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="Repo Screens/Screenshot 2025-07-13 205516.png" alt="Homepage" width="70%" />
+  <br>
+  <img src="Repo Screens/Screenshot 2025-07-13 205528.png" alt="Category Page" width="70%" />
+  <br>
+  <img src="Repo Screens/Screenshot 2025-07-13 205544.png" alt="Brand Page" width="70%" />
+  <br>
+  <img src="Repo Screens/Screenshot 2025-07-13 205601.png" alt="Product Page" width="70%" />
+  <br>
+  <img src="Repo Screens/Screenshot 2025-07-13 205623.png" alt="Login Page" width="40%" />
+  <br>
+  <img src="Repo Screens/Screenshot 2025-07-13 205634.png" alt="Signup Page" width="40%" />
+</p>
 
 ---
 
@@ -38,22 +57,22 @@ The platform connects shoppers with talented local artisans offering skincare, b
 - **Footer** with contact info and social media icons (Instagram, Facebook, etc.)
 - **Responsive and elegant design** using soft pastel colors, rounded corners, and beautiful typography
 - **Routing** with `react-router-dom`
-- **State management** using Context API or Angular services
+- **State management** using Context API
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend:
+**Frontend:**
 - React
 - React Router
 - HTML / CSS / JS
 - TailwindCSS or Styled Components (optional)
 
-### Backend:
+**Backend:**
 - ASP.NET Core Web API
 
-> .NET was chosen for the backend due to its performance, scalability, and strong ecosystem for building secure and maintainable APIs. It allows for clean architecture and easy integration with front-end apps via RESTful services.
+> .NET was chosen for the backend due to its performance, scalability, and strong ecosystem for building secure and maintainable APIs.
 
 ---
 
