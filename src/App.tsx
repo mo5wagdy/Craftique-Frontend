@@ -55,7 +55,6 @@ const App = () => (
           <Toaster />
           <Sonner />
           <HashRouter>
-          basename={process.env.PUBLIC_URL}
             <AppContent />
           </HashRouter>
         </AuthProvider>
