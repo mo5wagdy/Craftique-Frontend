@@ -3,7 +3,7 @@
 <p align="center">
   <b>A Modern E-Commerce Platform for Local Handmade Brands</b><br>
   Built with <code>React</code> (Frontend) and <code>.NET</code> (Backend) | Graduation Project
-  | Preview Link: [Add your GitHub link here]
+  | Preview Link: https://mo5wagdy.github.io/Craftique-Frontend/
 </p>
 
 ---
@@ -77,7 +77,7 @@ The platform connects shoppers with talented local artisans offering skincare, b
 
 ## 🔗 Backend API
 
-**Backend Repository Link:** [Add your GitHub link here]
+**Backend Repository Link:** https://github.com/mo5wagdy/CraftiqueEcommerceBackend.git
 
 **API Controllers:**
 - `ProductController`: manages products, product brands, and product categories
