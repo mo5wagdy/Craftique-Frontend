@@ -1,0 +1,93 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Open+Sans:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 36 33% 97%;
+    --foreground: 30 18% 13%;
+
+    --card: 36 33% 97%;
+    --card-foreground: 30 18% 13%;
+
+    --popover: 36 33% 97%;
+    --popover-foreground: 30 18% 13%;
+
+    --primary: 30 18% 13%;
+    --primary-foreground: 36 33% 97%;
+
+    --secondary: 30 10% 90%;
+    --secondary-foreground: 30 18% 13%;
+
+    --muted: 30 10% 90%;
+    --muted-foreground: 30 18% 40%;
+
+    --accent: 30 16% 85%;
+    --accent-foreground: 30 18% 13%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 36 33% 97%;
+
+    --border: 30 16% 85%;
+    --input: 30 16% 85%;
+    --ring: 30 18% 13%;
+
+    --radius: 0.5rem;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-craftique-cream text-craftique-brown font-sans;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply px-4 md:px-8 lg:px-12 xl:px-16 2xl:px-0 max-w-7xl mx-auto;
+  }
+  
+  .nav-link {
+    @apply text-craftique-brown hover:text-craftique-taupe transition-colors duration-200;
+  }
+  
+  .btn-primary {
+    @apply bg-craftique-brown text-white hover:bg-craftique-taupe transition-all duration-200 px-6 py-2 rounded-md;
+  }
+  
+  .btn-secondary {
+    @apply bg-craftique-sand text-craftique-brown hover:bg-craftique-beige transition-colors duration-200 px-6 py-2 rounded-md;
+  }
+  
+  .category-card {
+    @apply bg-white rounded-md overflow-hidden shadow-sm hover:shadow-md transition-shadow duration-200;
+  }
+}
+
+/* Add group hover effects for product cards */
+.group:hover ~ .group {
+  @apply opacity-50 scale-95;
+}
+
+.group:hover {
+  @apply z-10;
+}
+
+/* RTL Support */
+[dir="rtl"] .space-x-4 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+}
+
+[dir="rtl"] .space-x-6 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-x-reverse: 1;
+}
+
