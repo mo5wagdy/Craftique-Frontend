@@ -3,7 +3,7 @@
 <p align="center">
   <b>A Modern E-Commerce Platform for Local Handmade Brands</b><br>
   Built with <code>React</code> (Frontend) and <code>.NET</code> (Backend) | Graduation Project
-  | Preview Link: [Add your GitHub link here]
+  | Preview Link: https://mo5wagdy.github.io/Craftique-Frontend/
 </p>
 
 ---
