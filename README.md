@@ -73,11 +73,11 @@ The platform connects shoppers with talented local artisans offering skincare, b
 
 | Name            | Role               |
 |------------------|--------------------|
-| [Member 1]       | Frontend Developer |
-| [Member 2]       | Frontend Developer |
-| [Member 3]       | Frontend Developer |
-| [Member 4]       | Backend Developer  |
-| [Member 5]       | Backend Developer  |
+|  Hadeer Behery   | Frontend Developer |
+|  Menna Hisham    | Frontend Developer |
+|  Nouran Abdullah | Business Analyst   |
+|  Noura Gamil     | FullStack Developer|
+|  Muhammed Wagdy  | FullStack Developer|
 
 ---
 
