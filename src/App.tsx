@@ -54,6 +54,7 @@ const App = () => (
           <Toaster />
           <Sonner />
           <BrowserRouter>
+          basename={process.env.PUBLIC_URL}
             <AppContent />
           </BrowserRouter>
         </AuthProvider>
