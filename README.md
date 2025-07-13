@@ -2,9 +2,8 @@
 
 <p align="center">
   <b>A Modern E-Commerce Platform for Local Handmade Brands</b><br>
-  Built with <code>React</code> (Frontend) and <code>.NET</code> (Backend)<br>
-  <b>Graduation Project</b><br>
-  <a href="https://github.com/your-repo/craftique">🔗 Live Preview</a>
+  Built with <code>React</code> (Frontend) and <code>.NET</code> (Backend) | Graduation Project
+  | Preview Link: [Add your GitHub link here]
 </p>
 
 ---
